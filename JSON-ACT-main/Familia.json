@@ -1,0 +1,47 @@
+{
+    "Familia": [
+        {
+            "Nombres": "Fajit Enrique",
+            "Apellidos": "Castillo Obregon",
+            "Edad": 47,
+            "Profesion": "Jefe De Bodega",
+            "url": "img/papá.jpg"
+
+        },
+        {
+            "Nombres": "Maryory Johana",
+            "Apellidos": "Pineda Ortega",
+            "Edad": 41,
+            "Profesion": "Jefe de Punto de venta",
+            "url":"img/mamá.jpg"
+        },
+        {
+            "Nombres": "Camila Andrea",
+            "Apellidos": "Castillo Pineda",
+            "Edad": 12,
+            "Profesion": "Estudiante",
+            "url":"img/hermana.jpg"
+        },
+        {
+            "Nombres": "Camilo Andres",
+            "Apellidos": "Castillo Pineda",
+            "Edad": 18,
+            "Profesion": "Desarrollador de software",
+            "url":"img/yo.jpg"
+        },
+        {
+            "Nombres": "Rosa Matilde",
+            "Apellidos": "Obregon Zuñiga",
+            "Edad": 78,
+            "Profesion": "Ama de Casa",
+            "url":"img/abuela.jpg"
+        },
+        {
+            "Nombres": "Cris Jr",
+            "Apellidos": "Castillo Bula",
+            "Edad": 1,
+            "Profesion": "Mascota",
+            "url":"img/cris.jpg"
+        }
+    ]
+}
